@@ -361,3 +361,41 @@ The dashboard combines hidden-cost risk, delivery risk, discount exposure, profi
 ![Post-Sale Profit Leakage](images/Post%20Sales%20Cost%20Dashboard%284%29.jpg)
 
 > **Together, the dashboards connect evidence and analytical metrics to business insights, economic impact, and management action.**
+
+## Final Master BI Project File
+
+The **07 - Final Master BI Project File** contains the complete integrated analytical work across all dashboard areas.
+
+It brings together:
+
+- **Business Questions**
+- **Dashboard Evidence**
+- **Executive Insights**
+- **Business Impacts**
+- **Final Executive Recommendations**
+- **Expected Business Outcomes**
+
+The detailed question-level analysis and supporting evidence for each dashboard are consolidated in the Master BI File.
+
+**[Open the 07 - Final Master BI Project File on Kaggle →](https://www.kaggle.com/datasets/avkashkhairkar/08-master-bi-file)**
+
+## Complete Project on Kaggle
+
+The complete project is hosted on Kaggle and presents the full end-to-end progression from business understanding and source evidence through data integration, KPI development, final outputs, and executive dashboards.
+
+### Project Collection
+
+The collection includes:
+
+- **01 — Business Understanding of Amazon**
+- **02 — Raw Data & Source Datasets**
+- **03.1–03.4 — System-of-Record (SOR) Datasets**
+- **04 — Integrated SORs**
+- **05 — KPI & Dashboard Development**
+- **06 — Final Master Output**
+- **07 — Final Master BI Project File**
+- **08 — Final Executive Dashboards**
+
+**[View the Complete Amazon Retail Profitability Optimization Project on Kaggle →](https://www.kaggle.com/work/collections/19019301)**
+
+
