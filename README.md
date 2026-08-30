@@ -398,4 +398,31 @@ The collection includes:
 
 **[View the Complete Amazon Retail Profitability Optimization Project on Kaggle →](https://www.kaggle.com/work/collections/19019301)**
 
+## About This Project
 
+**Amazon Retail Profitability Optimization** is an end-to-end **Business Intelligence case study** built around a simple business premise:
+
+> **Profitability is not only about how much is sold — it is about how much economic value is retained.**
+
+Rather than starting with available data and working backward, the project begins with the **business problem**, identifies the profitability drivers that matter, builds the required evidence base, and then moves through data preparation, integration, analytical modeling, KPI development, dashboard analysis, and management action.
+
+The analysis brings together four interconnected profitability perspectives:
+
+- **Financial Health & Business Segment Profitability**
+- **International Market & Segment Performance**
+- **Cost-to-Serve**
+- **Post-Sale Profit Leakage**
+
+Where Amazon-specific operational data was not publicly available, clearly identified **proxy datasets** were used to investigate the relevant operational and market dimensions.
+
+The result is a **decision-oriented BI framework** that moves beyond reporting what happened to identify **where value is under pressure, why it is under pressure, where it can leak, and where management can intervene**.
+
+### The Principle Behind the Project
+
+**Market → Order → Fulfillment → Shipping → Delivery → Post-Sale → Value Retained**
+
+> **Understand the leakage. → Focus the intervention. → Improve the value retained from every sale.**
+
+---
+
+*Amazon Retail Profitability Optimization · End-to-End Business Intelligence Case Study*
