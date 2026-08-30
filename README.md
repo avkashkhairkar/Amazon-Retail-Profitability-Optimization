@@ -267,7 +267,7 @@ The analysis identified four major areas where Amazon Retail profitability is ex
 
 Amazon's consolidated financial performance masks significant differences in segment economics. Operating expenses expanded while operating income declined materially, while International remained loss-making and other segments contributed differently to overall profitability.
 
-**Business implication:** Profitability management and capital allocation should be driven by underlying segment economics rather than consolidated performance alone. :contentReference[oaicite:1]{index=1}
+**Business implication:** Profitability management and capital allocation should be driven by underlying segment economics rather than consolidated performance alone. 
 
 ### 02 — International Opportunity Is Selective, Not Uniform
 
@@ -301,13 +301,13 @@ The analysis translates the identified profitability pressures into four managem
 
 Target the operating-cost areas contributing most to profitability compression and strengthen capital allocation toward segments and activities demonstrating stronger economic returns.
 
-**Priority actions:** establish measurable margin-recovery objectives, link capital deployment to operating and cash returns, and require weaker segments to demonstrate a credible improvement path. :contentReference[oaicite:4]{index=4}
+**Priority actions:** establish measurable margin-recovery objectives, link capital deployment to operating and cash returns, and require weaker segments to demonstrate a credible improvement path.
 
 ### 02 — Prioritize International Growth on a Risk-Adjusted Basis
 
 Concentrate capital, inventory, and management attention on the strongest international opportunities rather than treating growth potential as sufficient evidence for expansion.
 
-**Priority actions:** combine market scale, growth, investment conditions, trade, inflation, currency, and logistics into market prioritization, while validating operational feasibility before significant resource allocation. :contentReference[oaicite:5]{index=5}
+**Priority actions:** combine market scale, growth, investment conditions, trade, inflation, currency, and logistics into market prioritization, while validating operational feasibility before significant resource allocation.
 
 ### 03 — Reduce High-Impact Cost-to-Serve Exposure
 
