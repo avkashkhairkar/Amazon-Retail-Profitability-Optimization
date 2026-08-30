@@ -1,4 +1,4 @@
-# Amazon-Retail-Profitability-Optimization
+# Amazon Retail Profitability Optimization
 
 ## Executive Summary
 
@@ -324,3 +324,40 @@ Manage post-sale exposure by identifying transactions and segments where operati
 
 Together, these priorities shift the focus from revenue growth alone toward **margin recovery, disciplined capital allocation, selective growth, lower cost-to-serve, reduced post-sale leakage, and ultimately greater value retained from each sale.**
 
+## Dashboard Preview
+
+The final dashboard suite translates the project's analytical framework into decision-oriented views across four core profitability drivers.
+
+### 01 — Financial Health & Business Segment Profitability
+
+**Management question:** Where is profitability under pressure?
+
+The dashboard brings together operating performance, cost structure, cash generation, and segment economics to identify areas of profitability pressure.
+
+![Financial Health & Business Segment Profitability](images/Amazon%20Profitability%20%26%20Financial%20Health%20Dashboard%20%281%29.jpg)
+
+### 02 — International Market & Segment Performance
+
+**Management question:** Where is the opportunity—and what economic risks surround it?
+
+The dashboard evaluates market attractiveness, growth, investment conditions, trade, inflation, currency, and logistics to support risk-aware international prioritization.
+
+![International Market & Segment Performance](images/International%20Segment%20Loss%20Dashboard%282%29.jpg)
+
+### 03 — Cost-to-Serve
+
+**Management question:** What does it cost to serve the demand?
+
+The dashboard examines shipping cost, cost intensity, delivery performance, and transit performance to identify operational pressure on transaction economics.
+
+![Cost-to-Serve](images/Cost%20To%20Serve%20Dashboard%283%29.jpg)
+
+### 04 — Post-Sale Profit Leakage
+
+**Management question:** What value can leak after the sale?
+
+The dashboard combines hidden-cost risk, delivery risk, discount exposure, profit stress, and order-level profitability to identify post-sale value leakage.
+
+![Post-Sale Profit Leakage](images/Post%20Sales%20Cost%20Dashboard%284%29.jpg)
+
+> **Together, the dashboards connect evidence and analytical metrics to business insights, economic impact, and management action.**
