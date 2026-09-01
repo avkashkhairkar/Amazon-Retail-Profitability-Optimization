@@ -16,14 +16,14 @@ The analysis combines Amazon/SEC financial evidence with World Bank/WDI and IMF 
 
 Amazon's scale creates substantial revenue potential, but scale alone does not guarantee retained economic value. Profitability can come under pressure as competitive dynamics, operating complexity, fulfillment, shipping, international operations, and post-sale obligations introduce friction across the retail transaction lifecycle.
 
-The business challenge is therefore not simply to increase revenue or measure aggregate profit, but to determine **where economic value is being created, where it is being compressed, and where it is being lost across the journey from market selection to post-sale activity**.
+The business challenge is therefore to **determine where Amazon Retail profitability comes under pressure, assess the financial and market conditions behind that pressure, identify how Cost-to-Serve and post-sale exposure affect transaction economics, and translate the findings into data-driven management actions to improve profitability.**
 
-This requires moving below aggregate financial outcomes and examining profitability at the driver level linking financial and segment performance with international market economics, Cost-to-Serve, and Post-Sale Profit Leakage.
+This requires moving below aggregate financial outcomes and examining profitability at the driver level—linking financial and segment performance with international market economics, Cost-to-Serve, and Post-Sale Profit Leakage.
 
 ### Core Business Question
 
-> **Where is Amazon's economic value being created, compressed, or lost and where can management intervene to retain more value from each sale?**
-
+> **Where is Amazon's economic value being created, compressed, or lost—and where can management intervene to retain more value from each sale?**
+> 
 ## Project Objectives
 
 The project translates the profitability challenge into five decision-oriented objectives:
